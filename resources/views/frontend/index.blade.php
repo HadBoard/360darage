@@ -6,56 +6,53 @@
     <section class="home-section pt-2">
         <div class="container-fluid-lg">
             <div class="row g-4">
-                <div class="col-xxl-3 col-sm-6 ratio_180">
-                    <div class="home-contain rounded">
+                <div class="col-xl-8 ratio_65">
+                    <div class="home-contain h-100 ">
                         <div class="h-100">
-                            <img src="assets/images/cake/banner/1.jpg" class="bg-img blur-up lazyload" alt="">
+                            <img src="assets/images/vegetable/banner/1.jpg" class="bg-img blur-up lazyload" alt="">
                         </div>
-                        <div class="home-detail p-top-left home-p-medium">
+                        <div class="home-detail p-center-left w-75">
                             <div>
-                                <h6 class="text-danger mb-2 fw-bold">تازه و خوشمزه</h6>
-                                <h2 class="theme-color fw-bold aviny">نان تازه</h2>
-                                <p class="text-content">پخت ویژه با بروزترین دستگاهای اروپا در ایران</p>
-                                <a href="shop-left-sidebar.html" class="shop-button">خرید آنلاین<i
-                                        class="fa-solid fa-left-long ms-2"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xxl-6 order-xxl-0 order-1 ratio_87">
-                    <div class="home-contain rounded">
-                        <div class="h-100">
-                            <img src="assets/images/cake/banner/2.jpg" class="bg-img blur-up lazyload" alt="">
-                        </div>
-                        <div class="home-detail p-center-left home-p-sm">
-                            <div class="home-top">
-                                <h6>تخفیف ویژه<span>30% تخفیف</span></h6>
-                                <h1 class="w-75 text-uppercase name-title poster-2 my-2">
-                                    ما <span class="name">بیسکوییت های</span> خوشمزه
-                                    <span class="name-2">می پزیم!</span>
-                                </h1>
-                                <p class="w-50">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده
-                                    از طراحان گرافیک است.</p>
+                                <h6>پیشنهاد ویژه <span>30% تخفیف</span></h6>
+                                <h1 class="text-uppercase">با خیال راحت خرید کنید <br><span class="daily">نیازهای روزانه</span></h1>
+                                <p class="w-75 d-none d-sm-block">سبزیجات حاوی بسیاری از ویتامین ها و مواد معدنی هستند که برای سلامتی مفیدند.</p>
                                 <button onclick="location.href = 'shop-left-sidebar.html';"
-                                        class="btn text-white mt-xxl-4 mt-2 home-button mend-auto theme-bg-color">
-                                    خرید آنلاین <i class="fa-solid fa-left-long icon ms-2"></i></button>
+                                        class="btn btn-animation mt-xxl-4 mt-2 home-button mend-auto">خرید آنلاین <i class="fa-solid fa-left-long icon"></i></button>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-xxl-3 col-sm-6 ratio_180">
-                    <div class="home-contain rounded">
-                        <img src="assets/images/cake/banner/3.jpg" class="bg-img blur-up lazyload" alt="">
-                        <div class="home-detail p-top-left home-p-medium">
-                            <div>
-                                <h6 class="text-danger mb-2 fw-bold">تازه و خوشمزه</h6>
-                                <h2 class="theme-color fw-bold aviny">بیسکوییت</h2>
-                                <p class="text-content">کرانچ کره بادام زمینی دانه های چیا جعفری قرمز ریحان سرریز..
-                                </p>
-                                <a href="shop-left-sidebar.html" class="shop-button">خرید آنلاین <i
-                                        class="fa-solid fa-left-long ms-2"></i></a>
+                <div class="col-xl-4 ratio_65">
+                    <div class="row g-4">
+                        <div class="col-xl-12 col-md-6">
+                            <div class="home-contain">
+                                <img src="assets/images/vegetable/banner/2.jpg" class="bg-img blur-up lazyload"
+                                     alt="">
+                                <div class="home-detail p-center-left home-p-sm w-75">
+                                    <div>
+                                        <h2 class="mt-0 text-danger">45% <span class="discount text-title">تخفیف</span>
+                                        </h2>
+                                        <h3 class="theme-color">مجموعه آجیل</h3>
+                                        <p class="w-75">ما سبزیجات و میوه های ارگانیک را تحویل می دهیم</p>
+                                        <a href="shop-left-sidebar.html" class="shop-button">خرید آنلاین <i class="fa-solid fa-left-long"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-12 col-md-6">
+                            <div class="home-contain">
+                                <img src="assets/images/vegetable/banner/3.jpg" class="bg-img blur-up lazyload"
+                                     alt="">
+                                <div class="home-detail p-center-left home-p-sm w-75">
+                                    <div>
+                                        <h3 class="mt-0 theme-color fw-bold">غذای سالم</h3>
+                                        <h4 class="text-danger">فروشگاه اورگانیک</h4>
+                                        <p class="organic">خرید روزانه خود را با غذاهای ارگانیک شروع کنید</p>
+                                        <a href="shop-left-sidebar.html" class="shop-button">خرید آنلاین <i class="fa-solid fa-left-long"></i></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
