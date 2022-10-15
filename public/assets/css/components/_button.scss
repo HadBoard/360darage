@@ -58,7 +58,7 @@
         transition: all 0.3s ease;
         position: relative;
         background: #ff6b6b;
-        background: linear-gradient(90deg, #ff6b6b 0%, #ff4f4f 100%);
+        background: linear-gradient(90deg, #ff6b6b 0%, #a80000 100%);
         border: none;
         z-index: 0;
 
@@ -73,8 +73,8 @@
             left: 0;
             z-index: -1;
             border-radius: 5px;
-            background: #ff4f4f;
-            background: linear-gradient(90deg, #ff4f4f 0%, #ff6b6b 100%);
+            background: #a80000;
+            background: linear-gradient(90deg, #a80000 0%, #ff6b6b 100%);
             transition: all 0.3s ease;
         }
 
