@@ -8,7 +8,7 @@
     <meta name="description" content="@yield('description', 'پلتفرم 360 درجه')">
     <meta name="keywords" content="@yield('keywords', 'پلتفرم 360 درجه')">
     <meta name="author" content="Seyed Hadi Ranjbar">
-    <link rel="icon" href="assets/images/favicon/2.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/favicon/2.ico" type="image/x-icon">
     <title>@yield('title', 'پلتفرم 360 درجه')</title>
 
     <!-- Google font -->
