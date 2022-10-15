@@ -4,7 +4,7 @@
             <div class="col-xxl-3 d-xxl-block d-none">
                 <div class="top-left-header">
                     <i class="iconly-Location icli text-white"></i>
-                    <span class="text-white">تهران - برج میلاد</span>
+                    <span class="text-white">یزد - شهر بادگیر ها</span>
                 </div>
             </div>
 
@@ -159,7 +159,7 @@
                                     </div>
                                     <div class="delivery-detail">
                                         <h6>پشیتبانی 24 ساعته</h6>
-                                        <h5>0936000000</h5>
+                                        <h5>09218248954</h5>
                                     </div>
                                 </a>
                             </li>

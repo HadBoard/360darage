@@ -63,7 +63,7 @@
                         <ul class="address">
                             <li>
                                 <i data-feather="home"></i>
-                                <a href="javascript:void(0)">تهران - برج میلاد</a>
+                                <a href="javascript:void(0)">یزد - شهر بادگیر ها</a>
                             </li>
                             <li>
                                 <i data-feather="mail"></i>
@@ -170,7 +170,7 @@
                                 <i data-feather="phone"></i>
                                 <div class="contact-number">
                                     <h6 class="text-content">پشتیبانی 24 ساعته :</h6>
-                                    <h5>0936.000.0000</h5>
+                                    <h5>0921.824.8954</h5>
                                 </div>
                             </div>
                         </li>
@@ -180,7 +180,7 @@
                                 <i data-feather="mail"></i>
                                 <div class="contact-number">
                                     <h6 class="text-content">آدرس ایمیل :</h6>
-                                    <h5>[ایمیل شما]</h5>
+                                    <h5>info@360darage.com</h5>
                                 </div>
                             </div>
                         </li>
@@ -210,7 +210,7 @@
 
     <div class="sub-footer section-small-space">
         <div class="reserve">
-            <h6 class="text-content">©2022 تمام حقوق محفوظ است</h6>
+            <h6 class="text-content">©2022 تمام حقوق برای مجموعه 360 درجه محفوظ است</h6>
         </div>
 
         <div class="payment">
